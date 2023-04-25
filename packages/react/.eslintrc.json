@@ -1,0 +1,3 @@
+{
+  "extends": "@cherry-bomb-ui/eslint-config"
+}
