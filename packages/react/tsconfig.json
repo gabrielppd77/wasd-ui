@@ -1,4 +1,4 @@
 {
-  "extends": "@cherry-bomb-ui/ts-config/react.json",
+  "extends": "@wasd-ui/ts-config/react.json",
   "include": ["src"]
 }

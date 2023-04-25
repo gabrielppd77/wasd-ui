@@ -1,5 +1,5 @@
 {
-  "name": "@cherry-bomb-ui/eslint-config",
+  "name": "@wasd-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",

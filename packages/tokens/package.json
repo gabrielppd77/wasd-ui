@@ -1,5 +1,5 @@
 {
-  "name": "@cherry-bomb-ui/tokens",
+  "name": "@wasd-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@cherry-bomb-ui/ts-config": "*",
-    "@cherry-bomb-ui/eslint-config": "*",
+    "@wasd-ui/ts-config": "*",
+    "@wasd-ui/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   }

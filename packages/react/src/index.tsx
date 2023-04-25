@@ -1,20 +1,15 @@
-import { colors } from '@cherry-bomb-ui/tokens'
+import { colors } from '@wasd-ui/tokens'
 
-export function App() {
+export function Button(props: any) {
   return (
-    <h1
+    <button
       style={{
-        color: colors.red,
+        backgroundColor: colors.red,
+        borderColor: colors.blue,
+        height: '200px',
+        width: '200px',
       }}
-    >
-      <h2
-        style={{
-          color: colors.blue,
-        }}
-      >
-        Here
-      </h2>
-      TS1
-    </h1>
+      {...props}
+    />
   )
 }
