@@ -14,11 +14,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
     "@wasd-ui/eslint-config": "*",
     "@wasd-ui/tokens": "*",
     "@wasd-ui/ts-config": "*",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.0",
     "react": "^18.2.0",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
